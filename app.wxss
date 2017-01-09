@@ -1,0 +1,16 @@
+
+.container{
+    padding-top: 1px;
+}
+
+.container:before{
+    content: '.';
+    height: 1px;
+    line-height: 0;
+    overflow: hidden;
+    background: greenyellow;
+    display: block;
+    position: fixed;
+    width: 100%;
+    top: 0;
+}

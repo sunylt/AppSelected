@@ -8,13 +8,13 @@
   "window":{
     "backgroundTextStyle":"light",
     "navigationBarBackgroundColor": "#000000",
-    "navigationBarTitleText": "进口商品便利店",
+    "navigationBarTitleText": "来喜地 逛世界",
     "navigationBarTextStyle":"#ffffff"
   },
   "tabBar": {
     "color": "#666666",
     "selectedColor": "#3cc51f",
-    "borderStyle": "black",
+    "borderStyle": "#ffffff",
     "backgroundColor": "#ffffff",
     "list": [{
       "pagePath": "pages/index/index",
@@ -30,7 +30,7 @@
       "pagePath": "pages/profile/profile",
       "iconPath": "image/icon_API.png",
       "selectedIconPath": "image/icon_API_HL.png",
-      "text": "个人中心"
+      "text": "个人"
     }]
   }
 }
