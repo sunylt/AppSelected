@@ -1,5 +1,5 @@
 <view class="container">
-    <text>喜地推荐</text>
+    <text>喜地推荐是</text>
     <view>
         <view><navigator url="/pages/detail/detail?id=0" open-type="navigate">日本手工杯子</navigator></view>
         <view><navigator url="/pages/detail/detail?id=1" open-type="navigate">日本手工杯子1</navigator></view>
