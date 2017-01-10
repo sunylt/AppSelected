@@ -1,9 +1,15 @@
 {
   "pages":[
     "pages/index/index",
-    "pages/logs/logs",
+    "pages/cart/cart",
+    "pages/profile/profile",
+
+    "pages/order/order",
     "pages/detail/detail",
-    "pages/profile/profile"
+    "pages/topic/topic",
+    "pages/about/about",
+    
+    "pages/logs/logs"
   ],
   "window":{
     "backgroundTextStyle":"light",
@@ -22,7 +28,7 @@
       "selectedIconPath": "image/icon_API_HL.png",
       "text": "首页"
     }, {
-      "pagePath": "pages/logs/logs",
+      "pagePath": "pages/cart/cart",
       "iconPath": "image/icon_API.png",
       "selectedIconPath": "image/icon_API_HL.png",
       "text": "购物车"

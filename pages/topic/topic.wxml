@@ -1,0 +1,6 @@
+<view class="container">
+    <text>喜地推荐</text>
+    <view>
+        <view><navigator url="/pages/detail/detail" open-type="navigate">sfsdfsd</navigator></view>
+    </view>
+</view>
